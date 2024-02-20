@@ -1,0 +1,172 @@
+body{
+    background-color: #000033;
+}
+#nav{
+    height: 150px; 
+    background-color: #000033;
+}
+#logo{
+    width: 150px;
+}
+#link{
+    text-align: center;
+    padding-top: 65px;
+}
+#icons{
+    text-align: right ;
+    padding-top: 65px;
+}
+.a1{
+    float: left;
+    width: 32%;
+    text-decoration: none ;
+    color: azure;
+}
+#l{
+    margin-left: 15px;
+}
+#le{
+    margin-left: 15px;
+}
+.a{
+    height: 600px;
+    background-color: #000033;
+}
+.a2{
+    color: azure;
+    width: 50%;
+    float: left;
+    background-color: #000033;
+}
+.z{
+    height: 5px;
+    background-color: #000033;
+}
+#A1{
+   color: greenyellow; 
+}
+#a2{
+    color: greenyellow;
+}
+.p1{
+    padding-left: 100px;
+}
+.p2{
+    padding-top: 50px;
+}
+.p3{
+    font-size:50px ;
+}
+#s1{
+    text-align: center;
+    color: azure;
+}
+#s2{
+    height: 25px;
+}
+.book{
+    border: solid #000033 6px;
+    color: azure;
+    width: 24%;
+    float: left;
+    text-align: center;
+}
+.image{
+    padding-top: 20px;
+}
+.bn{
+    border: none;
+    background-color:lightblue;
+    width: 100px;
+    height: 40px;
+}
+#doors{
+    border: solid #000033 6px;
+    color: azure;
+    width: 24%;
+    float: left;
+    text-align: center;
+}
+.cr{
+    border: none;
+    background-color:lightblue;
+    width: 100px;
+    height: 40px;
+}
+#u1{
+    text-align: center;
+    color: azure;
+}
+#H1{
+    text-align: center;
+    color: azure;
+}
+#y1{
+    height: 620px;
+}
+.custom{
+    width: 21%;
+    border: #000033 26px solid;
+    float: left;
+    background-color: rgb(201, 193, 193);
+}
+#r1{
+    padding: 40px;
+    text-align: justify;
+}
+#r2{
+    text-align: center;
+}
+#o2{
+    height: 50px;
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+#o3{
+    height: 375px;
+}
+.o1{
+    background-color: #000033;
+}
+#t3{
+    background-color: #000033;
+    text-align: center;
+    color:azure;
+}
+#q1{
+    margin-top: 100px;
+}
+#f1{
+    padding: 0px 300px;
+}
+#e1{
+    background-color: #000033;
+    text-align: center;
+}
+#d23{
+    text-decoration: none;
+    color: azure;
+    margin-right: 70px;
+    
+}
+#k1{
+    padding-left: 61px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+#l1{
+    margin: 0px;
+
+}
+#r7{
+    text-align: center;
+    color: azure;   
+} 
+#m1{
+    padding-bottom: 50px;
+    margin: 0px;
+}
+#g2{
+    background-color: #000033;
+}
